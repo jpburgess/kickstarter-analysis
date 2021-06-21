@@ -1,4 +1,4 @@
-#Theater Kickstarter Analysis using Excel
+# Theater Kickstarter Analysis using Excel
 
 ## More than four thousand Kickstarter campaigns were analyzed to find trends that differentiate successful and failed campaigns.
 
